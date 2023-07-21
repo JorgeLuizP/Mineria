@@ -1,0 +1,17 @@
+- Historia_de_Usuario_4
+    ├── codigo_fuente
+    │   ├── main.py
+    │   ├── mineria_datos.py
+    │   └── modelos.py
+    ├── datos
+    │   └── base_de_datos.sql
+    ├── documentacion
+    │   ├── documentacion_adicional.md
+    │   ├── estructura_directorios.txt
+    │   ├── Historias_de_usuario.docx
+    │   └── README.md
+    ├── Interfaces
+    │   └── maininterface.py
+    └── pruebas
+        ├── test_mineria_datos.py
+        └── test_modelos.py

@@ -1,0 +1,159 @@
+Edutrack
+|   InterfazFinal.py
+|   
+|               
++---Historia_de_Usuario_1
+|   +---codigo_fuente
+|   |   |   main.py
+|   |   |   mineria_datos.py
+|   |   |   modelos.py
+|   |   |   
+|   |   \---__pycache__
+|   |           mineria_datos.cpython-311.pyc
+|   |           modelos.cpython-311.pyc
+|   |           
+|   +---datos
+|   |       base_de_datos.sql
+|   |       
+|   +---documentacion
+|   |       documentacion_adicional.md
+|   |       estructura_directorios.txt
+|   |       Historias_de_usuario.docx
+|   |       README.md
+|   |       
+|   +---Interfaces
+|   |       maininterface.py
+|   |       
+|   \---pruebas
+|       |   test_mineria_datos.py
+|       |   test_modelos.py
+|       |   
+|       \---__pycache__
+|               test_mineria_datos.cpython-311-pytest-7.3.1.pyc
+|               test_mineria_datos.cpython-311.pyc
+|               test_modelos.cpython-311-pytest-7.3.1.pyc
+|               
++---Historia_de_Usuario_2
+|   +---codigo_fuente
+|   |   |   main.py
+|   |   |   mineria_datos.py
+|   |   |   modelos.py
+|   |   |   
+|   |   \---__pycache__
+|   |           mineria_datos.cpython-311.pyc
+|   |           modelos.cpython-311.pyc
+|   |           
+|   +---datos
+|   |       base_de_datos.sql
+|   |       
+|   +---documentacion
+|   |       documentacion_adicional.md
+|   |       estructura_directorios.txt
+|   |       Historias_de_usuario.docx
+|   |       README.md
+|   |       
+|   +---Interfaces
+|   |       maininterface.py
+|   |       
+|   \---pruebas
+|       |   test_mineria_datos.py
+|       |   test_modelos.py
+|       |   
+|       \---__pycache__
+|               test_mineria_datos.cpython-311-pytest-7.3.1.pyc
+|               test_mineria_datos.cpython-311.pyc
+|               test_modelos.cpython-311-pytest-7.3.1.pyc
+|               
++---Historia_de_Usuario_3
+|   +---codigo_fuente
+|   |   |   main.py
+|   |   |   mineria_datos.py
+|   |   |   modelos.py
+|   |   |   
+|   |   \---__pycache__
+|   |           mineria_datos.cpython-311.pyc
+|   |           modelos.cpython-311.pyc
+|   |           
+|   +---datos
+|   |       base_de_datos.sql
+|   |       
+|   +---documentacion
+|   |       documentacion_adicional.md
+|   |       estructura_directorios.txt
+|   |       Historias_de_usuario.docx
+|   |       README.md
+|   |       
+|   +---Interfaces
+|   |       maininterface.py
+|   |       
+|   \---pruebas
+|       |   test_mineria_datos.py
+|       |   test_modelos.py
+|       |   
+|       \---__pycache__
+|               test_mineria_datos.cpython-311-pytest-7.3.1.pyc
+|               test_mineria_datos.cpython-311.pyc
+|               test_modelos.cpython-311-pytest-7.3.1.pyc
+|               
++---Historia_de_Usuario_4
+|   +---codigo_fuente
+|   |   |   main.py
+|   |   |   mineria_datos.py
+|   |   |   modelos.py
+|   |   |   
+|   |   \---__pycache__
+|   |           mineria_datos.cpython-311.pyc
+|   |           modelos.cpython-311.pyc
+|   |           
+|   +---datos
+|   |       base_de_datos.sql
+|   |       
+|   +---documentacion
+|   |       documentacion_adicional.md
+|   |       estructura_directorios.txt
+|   |       Historias_de_usuario.docx
+|   |       README.md
+|   |       
+|   +---Interfaces
+|   |       maininterface.py
+|   |       
+|   \---pruebas
+|       |   test_mineria_datos.py
+|       |   test_modelos.py
+|       |   
+|       \---__pycache__
+|               test_mineria_datos.cpython-311-pytest-7.3.1.pyc
+|               test_mineria_datos.cpython-311.pyc
+|               test_modelos.cpython-311-pytest-7.3.1.pyc
+|               
+\---Historia_de_Usuario_5
+    +---codigo_fuente
+    |   |   main.py
+    |   |   mineria_datos.py
+    |   |   modelos.py
+    |   |   
+    |   \---__pycache__
+    |           mineria_datos.cpython-311.pyc
+    |           modelos.cpython-311.pyc
+    |           
+    +---datos
+    |       base_de_datos.sql
+    |       
+    +---documentacion
+    |       documentacion_adicional.md
+    |       estructura_directorios.txt
+    |       Historias_de_usuario.docx
+    |       README.md
+    |       
+    +---Interfaces
+    |       maininterface.py
+    |       
+    \---pruebas
+        |   test_mineria_datos.py
+        |   test_modelos.py
+        |   
+        \---__pycache__
+                test_mineria_datos.cpython-311-pytest-7.3.1.pyc
+                test_mineria_datos.cpython-311.pyc
+                test_modelos.cpython-311-pytest-7.3.1.pyc
+                
